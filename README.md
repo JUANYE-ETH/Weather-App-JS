@@ -11,16 +11,17 @@ A visually appealing, user-friendly Weather App built using JavaScript, HTML, an
 
 ## Installation and Usage
 1. Clone the repository or download the source code as a ZIP file.
-2. Obtain an API key from OpenWeatherMap and add it to the `config.js` file.
-3. Open the `index.html` file in your preferred web browser.
-4. Enter a city name in the input field and click the "Get Weather" button.
-5. The weather information for the specified city will be displayed on the screen.
+2. Deploy the app using Vercel or another serverless platform that supports serverless functions.
+3. Set your OpenWeatherMap API key in the platform's environment variables as `OPEN_WEATHER_API_KEY`.
+4. Visit the deployed app's URL in your preferred web browser.
+5. Enter a city name in the input field and click the "Get Weather" button to fetch the current weather information.
 
 ## Technologies Used
 - HTML5
 - CSS
 - JavaScript
 - OpenWeatherMap API
+- Vercel serverless functions
 
 ## Created By
 Juan (Juanye)
